@@ -2,4 +2,3 @@
 /.next
 /server/.next
 /server/config/dev.js
-/server/config/prod.js
